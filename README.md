@@ -49,9 +49,9 @@ Watch a complete walkthrough of the automation, including the workflow configura
 
 ---
 
-## 📸 Workflow Screenshot
+## 📸 Workflow 
 
-![Workflow](screenshots/workflow.png)
+![Workflow](workflow.png)
 
 ---
 
@@ -67,8 +67,7 @@ This automation is ideal for businesses that need to create a personalized sprea
 client-onboarding-automation/
 │
 ├── README.md
-└── screenshots/
-    └── workflow.png
+└── workflow.png
 ```
 
 ---
