@@ -30,7 +30,7 @@ Watch a complete walkthrough of the automation, including the workflow configura
 
 ---
 
-## ⚙️ Workflow
+## ⚡ Process
 
 1. A client submits a Google Form.
 2. Zapier creates a copy of a predefined Google Sheets template.
